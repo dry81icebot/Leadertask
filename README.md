@@ -221,4 +221,4 @@ LeaderTask is offered as a full free version with all features and updates inclu
 Start organizing your tasks today! Download LeaderTask for free and take control of your productivity!
 
 ---
-**Last updated:** 2026-10-20 23:43:59 UTC
+**Last updated:** 2026-10-21 04:16:41 UTC
